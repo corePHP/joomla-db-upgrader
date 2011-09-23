@@ -42,9 +42,11 @@ If you were developing an extension called com_xyz and you would have it on a ve
 You would install this plugin and enable it, but don't enable the option to 'Do default'
 
 On the administration file for the component located here:
+
 ```
 /administrator/components/com_xyz/xyz.php
 ```
+
 You would add this line towards the beginning of the file:
 
 ```php
